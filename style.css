@@ -107,7 +107,7 @@ BODY {
 	.slide ol > li:before,
 	.slide ul > li:before {
 		position:absolute;
-		margin-left:-120px;
+		margin-left:-108px;
 		width:100px;
 		color:#BBB;
 		text-align:right;
